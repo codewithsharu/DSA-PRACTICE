@@ -1,1 +1,2 @@
 # DSA-PRACTICE
+maths
